@@ -87,11 +87,11 @@ export function Settings() {
               </div>
               <div className="flex items-center space-x-2">
                 <RadioGroupItem value="chrome" id="chrome" />
-                <Label htmlFor="chrome">Chrome OS style</Label>
+                <Label htmlFor="chrome">Apps Centered</Label>
               </div>
               <div className="flex items-center space-x-2">
                 <RadioGroupItem value="windows11" id="windows11" />
-                <Label htmlFor="windows11">Windows 11 style</Label>
+                <Label htmlFor="windows11">Completely Centered</Label>
               </div>
             </RadioGroup>
           </div>
